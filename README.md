@@ -42,6 +42,37 @@ Le projet consiste à finaliser la maquette Figma, intégrer les pages web en HT
 
 ---
 
+
+
+![00a84a7ced](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/00a84a7ced3c6c1dfbf99f1a58a992449b0a638b.jpg)
+
+![amreca](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/amreca.jpg)
+
+![db8547248d83a1f03b67414f820d260ae3eece0c](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/db8547248d83a1f03b67414f820d260ae3eece0c(1).png)
+
+![france](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/france.jpg)
+
+![images](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/images.png)
+
+![img1](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/img1(1).jpg)
+
+![img2](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/img2.jpg)
+
+![img3](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/img3.jpg)
+
+![img4](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/img4.jpg)
+
+![img5](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/img5.jpg)
+
+![img6](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/img6.jpg)
+
+![logo](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/logo.png)
+
+![london](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/london.jpg)
+
+![img-vl](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/assets/img-vl.png)
+
+
 ## 📂 Structure du projet
 
 
