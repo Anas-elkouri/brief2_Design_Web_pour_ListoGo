@@ -48,8 +48,6 @@ Le projet consiste à finaliser la maquette Figma, intégrer les pages web en HT
 
 ![amreca](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/amreca.jpg)
 
-![db8547248d83a1f03b67414f820d260ae3eece0c](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/db8547248d83a1f03b67414f820d260ae3eece0c(1).png)
-
 ![france](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/france.jpg)
 
 ![images](https://media.githubusercontent.com/media/Anas-elkouri/brief2_Design_Web_pour_ListoGo/refs/heads/main/image/images.png)
